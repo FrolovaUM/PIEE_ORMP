@@ -1,0 +1,17 @@
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.exe
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.deps.json
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.runtimeconfig.json
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.runtimeconfig.dev.json
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.dll
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\bin\Debug\netcoreapp3.1\Kursor.pdb
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor_MarkupCompile.cache
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor_MarkupCompile.lref
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.g.resources
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.dll
+C:\Users\ACER\Downloads\Kursor-wpf-master\Kursor\obj\Debug\netcoreapp3.1\Kursor.pdb
