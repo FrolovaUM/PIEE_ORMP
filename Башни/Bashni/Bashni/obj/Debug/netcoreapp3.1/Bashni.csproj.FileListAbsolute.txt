@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.exe
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.deps.json
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.runtimeconfig.json
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.dll
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\bin\Debug\netcoreapp3.1\Bashni.pdb
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni_MarkupCompile.cache
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni_MarkupCompile.lref
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni.g.resources
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni.dll
+C:\Users\ACER\Desktop\Башни\Bashni\Bashni\obj\Debug\netcoreapp3.1\Bashni.pdb
